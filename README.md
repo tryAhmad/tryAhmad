@@ -6,6 +6,8 @@
   
 - 👀 I am intrested in **python, AI/ML and Web Dev**
 
+- 📫 How to reach me **ahmadsaeed3220@gmail.com**
+
 <!--
 **tryAhmad/tryAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
