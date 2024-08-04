@@ -5,7 +5,7 @@
 - 🐍 **Python**
   
 ## I am intrested in 
-- 🐍 **python**
+- 🐍 **Python**
 - 🤖 **AI/ML**
 - 💻 **Web Dev**
 
