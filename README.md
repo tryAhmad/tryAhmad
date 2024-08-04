@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tryAhmad&label=Profile%20views&color=0e75b6&style=flat" alt="tryAhmad" /> </p>
+
+
 <!--
 **tryAhmad/tryAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
