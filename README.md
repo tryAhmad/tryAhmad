@@ -2,6 +2,7 @@
 
 ## I’m currently learning
 - ⚛️**React JS**
+- 🐍**Python**
   
 - 👀 I am intrested in **python, AI/ML and Web Dev**
 
