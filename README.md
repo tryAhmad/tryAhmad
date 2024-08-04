@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
 
-- 🌱 I’m currently learning **React JS**
+-  I’m currently learning
+- ⚛️**React JS**
   
 - 👀 I am intrested in **python, AI/ML and Web Dev**
 
