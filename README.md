@@ -4,7 +4,10 @@
 - ⚛️**React JS**
 - 🐍**Python**
   
-- 👀 I am intrested in **python, AI/ML and Web Dev**
+## I am intrested in 
+- 🐍 **python**
+- 🤖 **AI/ML**
+- 💻 **Web Dev**
 
 - 📫 How to reach me **ahmadsaeed3220@gmail.com**
 
