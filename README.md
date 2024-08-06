@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tryAhmad&show_icons=true&locale=en" alt="tryahmad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tryAhmad&" alt="tryahmad" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tryAhmad&date=` + new Date().getTime() + `" alt="tryahmad" /></p>
