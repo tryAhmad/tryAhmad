@@ -22,4 +22,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tryAhmad&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact&timestamp=1)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tryAhmad&theme=react&hide_border=true&include_all_commits=false&count_private=false&timestamp=1)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tryAhmad&theme=react&hide_border=true&timestamp=1&date=${new Date().getTime()})
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=tryAhmad&theme=react&hide_border=true)
